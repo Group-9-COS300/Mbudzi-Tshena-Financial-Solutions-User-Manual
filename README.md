@@ -12,7 +12,7 @@ Welcome to the **Mbudzi Tshena Financial Solutions** Loan Management Platform. T
 3. [Managing Loan Requests](#3-managing-loan-requests)
 4. [Tracking Payments](#4-tracking-payments)
 5. [Borrower Management](#5-borrower-management)
-6. [How to Use the AI Risk Engine](#6--how-to-use-the-ai-risk-engine)
+6. [How to Use the AI Risk Engine](#6-how-to-use-the-ai-risk-engine)
 7. [Troubleshooting & Support](#7-troubleshooting--support)
 
 ---
